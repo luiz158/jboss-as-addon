@@ -1,0 +1,14 @@
+#######git clone git@github.com:jerr/jboss-as-addon.git
+git clone git@github.com:luiz158/jboss-as-addon.git
+cd jboss-as-addon
+git pull https://github.com/jerr/jboss-as-addon
+git push
+git add atualizar.txt
+git commit -am 'como atualizar .....'
+git push
+
+git pull https://github.com/forge/plugin-jboss-as
+git push
+
+
+
